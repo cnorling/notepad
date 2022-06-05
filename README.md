@@ -13,3 +13,7 @@ markdown notepad for online articles and resources I like
 # programning tools
 
 [hugo](https://gohugo.io/) a tool for generating static sites in go
+
+# cloud
+
+[cloud terminology glossary](https://lucid.app/lucidchart/13fde51a-271f-456a-b2b3-ef6869f9ee6a/view)
