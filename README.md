@@ -1,6 +1,6 @@
-# articles-i-like
+# ABOUT NOTEPAD
 
-markdown notepad for online articles and resources I like
+This is a markdown notepad for online articles and resources I like
 
 # kubernetes
 
