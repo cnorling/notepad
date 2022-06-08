@@ -5,6 +5,7 @@ This is a markdown notepad for online articles and resources I like
 # kubernetes
 
 [forging optimal metallb config](https://patrick.easte.rs/post/2022/forging-optimal-metallb-config/)
+[smarter device manager](https://gitlab.com/arm-research/smarter/smarter-device-manager) is a tool that lets you give k8s containers access to device drivers in a secure manner. If you ever need a container to interface with something in the /dev directory, this is a great way to do it without being overpermissive with a cudgel like `--cap-add SYSADMIN`
 
 # gitops
 
@@ -16,4 +17,4 @@ This is a markdown notepad for online articles and resources I like
 
 # cloud
 
-[cloud terminology glossary](https://lucid.app/lucidchart/13fde51a-271f-456a-b2b3-ef6869f9ee6a/view)
+[cloud terminology glossary](https://lucid.app/lucidchart/13fde51a-271f-456a-b2b3-ef6869f9ee6a/view) is a good map of terminology between various cloud providers
