@@ -13,8 +13,9 @@ manner. If you ever need a container to interface with something in the /dev dir
 
 [pulumi](https://www.pulumi.com/) is an obfuscation layer on top of terraform that enables you to stop writing HCL and start using an actual programming language
 
-# programning tools
+# golang
 
+[golang sprintf string formatting](https://gobyexample.com/string-formatting) is a good page reference for `%s` usage in `fmt.SprintF`
 [hugo](https://gohugo.io/) a tool for generating static sites in go
 
 # cloud
