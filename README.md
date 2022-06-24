@@ -12,6 +12,7 @@ manner. If you ever need a container to interface with something in the /dev dir
 # gitops
 
 [pulumi](https://www.pulumi.com/) is an obfuscation layer on top of terraform that enables you to stop writing HCL and start using an actual programming language
+[gitversion](https://github.com/GitTools/GitVersion) is a useful tool for handling and incrementing versions automatically in a semver-like manner with first class parsing
 
 # golang
 
