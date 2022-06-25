@@ -22,3 +22,7 @@ manner. If you ever need a container to interface with something in the /dev dir
 # cloud
 
 [cloud terminology glossary](https://lucid.app/lucidchart/13fde51a-271f-456a-b2b3-ef6869f9ee6a/view) is a good map of terminology between various cloud providers
+
+# other
+
+[Leslie Lamport's research papers](https://lamport.azurewebsites.net/pubs/pubs.html) on distributed systems is a really good resource for learning about the problem space of system distribution.
