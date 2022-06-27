@@ -18,6 +18,7 @@ manner. If you ever need a container to interface with something in the /dev dir
 
 [golang sprintf string formatting](https://gobyexample.com/string-formatting) is a good page reference for `%s` usage in `fmt.SprintF`
 [hugo](https://gohugo.io/) a tool for generating static sites in go
+[go.work workspace syntax](https://www.sobyte.net/post/2022-01/go-multi-module/)
 
 # cloud
 
