@@ -8,6 +8,7 @@ This is a markdown notepad for online articles and resources I like
 [smarter device manager](https://gitlab.com/arm-research/smarter/smarter-device-manager) is a tool that lets you give k8s containers access to device drivers in a secure
 manner. If you ever need a container to interface with something in the /dev directory, this is a great way to do it without being overpermissive with a cudgel like `--cap-add SYSADMIN`
 [gcsfuse unprivileged](https://github.com/samos123/gke-gcs-fuse-unprivileged) is a good example of using gcsfuse in a secure manner
+[the apk alpine linux package directory](https://pkgs.alpinelinux.org/packages) is good for browsing apk packages you can use in alpine containers
 
 # gitops
 
