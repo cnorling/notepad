@@ -10,6 +10,7 @@ manner. If you ever need a container to interface with something in the /dev dir
 [gcsfuse unprivileged](https://github.com/samos123/gke-gcs-fuse-unprivileged) is a good example of using gcsfuse in a secure manner
 [the apk alpine linux package directory](https://pkgs.alpinelinux.org/packages) is good for browsing apk packages you can use in alpine containers
 [kubelogin](https://github.com/int128/kubelogin) is a great utility for authenticating into kubernetes clusters via OIDC based auth
+[kubernetes csi index](https://kubernetes-csi.github.io/docs/drivers.html)
 
 # gitops
 
