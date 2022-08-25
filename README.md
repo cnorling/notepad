@@ -37,3 +37,8 @@ manner. If you ever need a container to interface with something in the /dev dir
 
 - [the founding of latex](https://lamport.azurewebsites.net/pubs/pubs.html#latex)
 - [Time, Clocks and the Ordering of Events in a Distributed System](http://lamport.azurewebsites.net/pubs/time-clocks.pdf)
+
+# comical items
+
+[vim koans](https://blog.sanctum.geek.nz/vim-koans/)
+[git koans](https://stevelosh.com/blog/2013/04/git-koans/)
