@@ -11,6 +11,18 @@ manner. If you ever need a container to interface with something in the /dev dir
 [the apk alpine linux package directory](https://pkgs.alpinelinux.org/packages) is good for browsing apk packages you can use in alpine containers
 [kubelogin](https://github.com/int128/kubelogin) is a great utility for authenticating into kubernetes clusters via OIDC based auth
 [kubernetes csi index](https://kubernetes-csi.github.io/docs/drivers.html)
+[falco]() is a utility for container runtime scanning
+
+# kubecon
+
+| talk                                                                | link                                        | summary |
+| ------------------------------------------------------------------- | ------------------------------------------- | ------- |
+| My Container Image has 500 Vulnerabilities, Now What                | https://www.youtube.com/watch?v=1fO_xSnwDPg |         |
+| unsecured kubernetes in the wild                                    | https://www.youtube.com/watch?v=VGv32or8nmU |         |
+| Kubernetes Exposed! Seven of Nine Hidden Secrets That Will Give You | https://www.youtube.com/watch?v=JBbVTmrZ45E |         |
+|                                                                     |                                             |         |
+|                                                                     |                                             |         |
+|                                                                     |                                             |         |
 
 # gitops
 
