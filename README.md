@@ -15,14 +15,18 @@ manner. If you ever need a container to interface with something in the /dev dir
 
 # kubecon
 
-| talk                                                                | link                                        | summary |
-| ------------------------------------------------------------------- | ------------------------------------------- | ------- |
-| My Container Image has 500 Vulnerabilities, Now What                | https://www.youtube.com/watch?v=1fO_xSnwDPg |         |
-| unsecured kubernetes in the wild                                    | https://www.youtube.com/watch?v=VGv32or8nmU |         |
-| Kubernetes Exposed! Seven of Nine Hidden Secrets That Will Give You | https://www.youtube.com/watch?v=JBbVTmrZ45E |         |
-|                                                                     |                                             |         |
-|                                                                     |                                             |         |
-|                                                                     |                                             |         |
+| talk                                                                      | link                                        | summary |
+| ------------------------------------------------------------------------- | ------------------------------------------- | ------- |
+| My Container Image has 500 Vulnerabilities, Now What                      | https://www.youtube.com/watch?v=1fO_xSnwDPg |         |
+| unsecured kubernetes in the wild                                          | https://www.youtube.com/watch?v=VGv32or8nmU |         |
+| Kubernetes Exposed! Seven of Nine Hidden Secrets That Will Give You pause | https://www.youtube.com/watch?v=JBbVTmrZ45E |         |
+| Exploiting a Slightly Peculiar Volume Configuration                       | https://www.youtube.com/watch?v=V8JXexaLGCU |         |
+|                                                                           |                                             |         |
+|                                                                           |                                             |         |
+
+# infosec
+
+https://overthewire.org
 
 # gitops
 
