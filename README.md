@@ -38,7 +38,6 @@ https://overthewire.org
 
 - [the genesis of kafka](http://notes.stephenholiday.com/Kafka.pdf) is a good whitepaper showing how kafka came to be
 - [a whitepaper on spanner's availability](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45855.pdf) is a good article to read about how google manages their own georedundant database
-- [the cap theorem](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/) is a good research paper worth reading about distributed data design limitations
 
 # golang
 
@@ -50,12 +49,21 @@ https://overthewire.org
 
 [cloud terminology glossary](https://lucid.app/lucidchart/13fde51a-271f-456a-b2b3-ef6869f9ee6a/view) is a good map of terminology between various cloud providers
 
-# Leslie Lamport
+# people
+
+## Leslie Lamport
 
 [Leslie Lamport's research papers](https://lamport.azurewebsites.net/pubs/pubs.html) on distributed systems are really good resources for learning about the problem space of system distribution in tech.
 
 - [the founding of latex](https://lamport.azurewebsites.net/pubs/pubs.html#latex)
 - [Time, Clocks and the Ordering of Events in a Distributed System](http://lamport.azurewebsites.net/pubs/time-clocks.pdf)
+
+## Eric Brewer
+
+[Eric Brewer's research](https://people.eecs.berkeley.edu/~brewer/) on distributed systems in the context of data is good
+
+- [towards robust distributed systems](https://sites.cs.ucsb.edu/~rich/class/cs293-cloud/papers/Brewer_podc_keynote_2000.pdf) is a good powerpoint to go through on the genesis of wider distributed systems and the problems you face with large datasets and consistency. They go over the origin of the CAP theorem in this talk. I wish there was a video of it...
+- [a follow-up on the cap theorem](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/) is a good article worth reading about the follow-up on CAP theorem and distributed data design limitations
 
 # comical items
 
