@@ -40,6 +40,7 @@ https://overthewire.org
 - [data integrity during network disruptions in postgres](https://aphyr.com/posts/282-call-me-maybe-postgres)
 - [mongodb's reputation in 2018](https://news.ycombinator.com/item?id=16385701)
 - [the secret lives of data](http://thesecretlivesofdata.com) is a good visualization of how RAFT based quorum works
+- [raft's whitepaper](https://raft.github.io/raft.pdf)
 
 # golang
 
