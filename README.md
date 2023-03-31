@@ -1,6 +1,6 @@
 # ABOUT NOTEPAD
 
-This is a markdown notepad for online articles and resources I like
+This is a markdown notepad for online articles and resources I like. I usually write down things that are profound that I've gotten a lot of value out of
 
 # kubernetes
 
@@ -13,7 +13,7 @@ manner. If you ever need a container to interface with something in the /dev dir
 [kubernetes csi index](https://kubernetes-csi.github.io/docs/drivers.html)
 [falco]() is a utility for container runtime scanning
 
-# kubecon
+## kubecon
 
 | talk                                                                      | link                                        | summary |
 | ------------------------------------------------------------------------- | ------------------------------------------- | ------- |
@@ -21,8 +21,6 @@ manner. If you ever need a container to interface with something in the /dev dir
 | unsecured kubernetes in the wild                                          | https://www.youtube.com/watch?v=VGv32or8nmU |         |
 | Kubernetes Exposed! Seven of Nine Hidden Secrets That Will Give You pause | https://www.youtube.com/watch?v=JBbVTmrZ45E |         |
 | Exploiting a Slightly Peculiar Volume Configuration                       | https://www.youtube.com/watch?v=V8JXexaLGCU |         |
-|                                                                           |                                             |         |
-|                                                                           |                                             |         |
 
 # infosec
 
@@ -40,6 +38,8 @@ https://overthewire.org
 - [a whitepaper on spanner's availability](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45855.pdf) is a good article to read about how google manages their own georedundant database
 - [the genesis of postgres](https://dsf.berkeley.edu/postgres-v4r2/postgres.faq) from berkley is absolutely worth reading
 - [data integrity during network disruptions in postgres](https://aphyr.com/posts/282-call-me-maybe-postgres)
+- [mongodb's reputation in 2018](https://news.ycombinator.com/item?id=16385701)
+- [the secret lives of data](http://thesecretlivesofdata.com) is a good visualization of how RAFT based quorum works
 
 # golang
 
@@ -67,6 +67,12 @@ https://overthewire.org
 - [towards robust distributed systems](https://sites.cs.ucsb.edu/~rich/class/cs293-cloud/papers/Brewer_podc_keynote_2000.pdf) is a good powerpoint to go through on the genesis of wider distributed systems and the problems you face with large datasets and consistency. They go over the origin of the CAP theorem in this talk. I wish there was a video of it...
 - [a follow-up on the cap theorem](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/) is a good article worth reading about the follow-up on CAP theorem and distributed data design limitations
 - [the definition of a partition](<https://en.wikipedia.org/wiki/Partition_(database)>) is important for understanding the above articles
+
+## Kyle Kingsbury
+
+Kyle Kingsbury tests databases and refutes claims about data integrity and tests distributed data systems. He has some great talks and an excellent series called jepsen.
+
+[anna concurrenina](https://www.youtube.com/watch?v=eSaFVX4izsQ) is an excellent talk illustrating how a lot of modern databases fail to meet the standards they advertise when it comes to network disruptions/partitions and distributed systems issues
 
 # comical items
 
