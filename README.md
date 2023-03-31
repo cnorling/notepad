@@ -39,6 +39,7 @@ https://overthewire.org
 - [the genesis of kafka](http://notes.stephenholiday.com/Kafka.pdf) is a good whitepaper showing how kafka came to be
 - [a whitepaper on spanner's availability](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45855.pdf) is a good article to read about how google manages their own georedundant database
 - [the genesis of postgres](https://dsf.berkeley.edu/postgres-v4r2/postgres.faq) from berkley is absolutely worth reading
+- [data integrity during network disruptions in postgres](https://aphyr.com/posts/282-call-me-maybe-postgres)
 
 # golang
 
