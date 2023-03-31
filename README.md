@@ -59,6 +59,7 @@ https://overthewire.org
 
 - [the founding of latex](https://lamport.azurewebsites.net/pubs/pubs.html#latex)
 - [Time, Clocks and the Ordering of Events in a Distributed System](http://lamport.azurewebsites.net/pubs/time-clocks.pdf)
+- [the part-time parlaiment](https://lamport.azurewebsites.net/pubs/pubs.html#lamport-paxos) is a good paper to read on the genesis of paxos
 
 ## Eric Brewer
 
