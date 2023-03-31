@@ -38,6 +38,7 @@ https://overthewire.org
 
 - [the genesis of kafka](http://notes.stephenholiday.com/Kafka.pdf) is a good whitepaper showing how kafka came to be
 - [a whitepaper on spanner's availability](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45855.pdf) is a good article to read about how google manages their own georedundant database
+- [the genesis of postgres](https://dsf.berkeley.edu/postgres-v4r2/postgres.faq) from berkley is absolutely worth reading
 
 # golang
 
@@ -64,6 +65,7 @@ https://overthewire.org
 
 - [towards robust distributed systems](https://sites.cs.ucsb.edu/~rich/class/cs293-cloud/papers/Brewer_podc_keynote_2000.pdf) is a good powerpoint to go through on the genesis of wider distributed systems and the problems you face with large datasets and consistency. They go over the origin of the CAP theorem in this talk. I wish there was a video of it...
 - [a follow-up on the cap theorem](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/) is a good article worth reading about the follow-up on CAP theorem and distributed data design limitations
+- [the definition of a partition](<https://en.wikipedia.org/wiki/Partition_(database)>) is important for understanding the above articles
 
 # comical items
 
