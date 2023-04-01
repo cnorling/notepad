@@ -21,6 +21,7 @@ manner. If you ever need a container to interface with something in the /dev dir
 | unsecured kubernetes in the wild                                          | https://www.youtube.com/watch?v=VGv32or8nmU |         |
 | Kubernetes Exposed! Seven of Nine Hidden Secrets That Will Give You pause | https://www.youtube.com/watch?v=JBbVTmrZ45E |         |
 | Exploiting a Slightly Peculiar Volume Configuration                       | https://www.youtube.com/watch?v=V8JXexaLGCU |         |
+| How Kubernetes Components Communicate Securely In Your Cluster            | https://www.youtube.com/watch?v=bXnVI_hUAbk |         |
 
 # infosec
 
