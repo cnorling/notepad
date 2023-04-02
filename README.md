@@ -52,6 +52,7 @@ https://overthewire.org
 # cloud
 
 [cloud terminology glossary](https://lucid.app/lucidchart/13fde51a-271f-456a-b2b3-ef6869f9ee6a/view) is a good map of terminology between various cloud providers
+[endoflife.date](https://endoflife.date/) is an index of common cloud native tools and their release cycles
 
 # people
 
