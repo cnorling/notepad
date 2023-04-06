@@ -12,6 +12,7 @@ manner. If you ever need a container to interface with something in the /dev dir
 [kubelogin](https://github.com/int128/kubelogin) is a great utility for authenticating into kubernetes clusters via OIDC based auth
 [kubernetes csi index](https://kubernetes-csi.github.io/docs/drivers.html)
 [falco]() is a utility for container runtime scanning
+[the OCI specs](https://specs.opencontainers.org/) are worth reading to know what tools like runc are opinionated about
 
 ## kubecon
 
